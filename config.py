@@ -1,3 +1,4 @@
+# coding=utf-8
 twitter = dict(
 	consumer_key = 'App consumer key',
 	consumer_secret = 'App secret',
